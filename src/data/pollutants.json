@@ -1,0 +1,60 @@
+{
+  "pollutants": [
+    {
+      "id": 1,
+      "name": "Plastic Bottle",
+      "category": "physical",
+      "description": "Non-biodegradable waste that harms aquatic life",
+      "image": "plastic-bottle.png"
+    },
+    {
+      "id": 2,
+      "name": "Oil",
+      "category": "chemical",
+      "description": "Petroleum products that pollute water surfaces",
+      "image": "oil.png"
+    },
+    {
+      "id": 3,
+      "name": "Bacteria",
+      "category": "biological",
+      "description": "Microorganisms that can cause diseases",
+      "image": "bacteria.png"
+    },
+    {
+      "id": 4,
+      "name": "Pesticides",
+      "category": "chemical",
+      "description": "Chemicals used in agriculture that can contaminate water",
+      "image": "pesticides.png"
+    },
+    {
+      "id": 5,
+      "name": "Plastic Bag",
+      "category": "physical",
+      "description": "Single-use plastic that takes hundreds of years to decompose",
+      "image": "plastic-bag.png"
+    },
+    {
+      "id": 6,
+      "name": "Algae",
+      "category": "biological",
+      "description": "Excessive growth can deplete oxygen in water",
+      "image": "algae.png"
+    },
+    {
+      "id": 7,
+      "name": "Acid",
+      "category": "chemical",
+      "description": "Industrial waste that lowers pH of water",
+      "image": "acid.png"
+    },
+    {
+      "id": 8,
+      "name": "Sand",
+      "category": "physical",
+      "description": "Sediment that can cloud water and harm aquatic life",
+      "image": "sand.png"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is water pollution?",
+      "options": [
+        "Clean water with no impurities",
+        "Contaminated water that is harmful",
+        "Water from the tap"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of these is a physical pollutant?",
+      "options": [
+        "Plastic",
+        "Oil",
+        "Bacteria"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "What happens during sedimentation?",
+      "options": [
+        "Water is boiled",
+        "Heavy particles settle down",
+        "UV light kills bacteria"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "Which method uses sand and charcoal to clean water?",
+      "options": [
+        "Sedimentation",
+        "Filtration",
+        "Distillation"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "Why is clean water important?",
+      "options": [
+        "It tastes better",
+        "It prevents diseases and supports life",
+        "It's cheaper than bottled water"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "What can we do to reduce water pollution?",
+      "options": [
+        "Use less plastic",
+        "Dispose of chemicals properly",
+        "Both A and B"
+      ],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "methods": [
+    {
+      "id": 1,
+      "name": "Sedimentation",
+      "description": "Letting heavy particles settle at the bottom of the water",
+      "steps": [
+        "Pour water into a container",
+        "Wait for particles to settle at the bottom",
+        "Carefully pour off the clean water from the top"
+      ],
+      "animation": "sedimentation"
+    },
+    {
+      "id": 2,
+      "name": "Filtration",
+      "description": "Using sand and charcoal filters to remove impurities",
+      "steps": [
+        "Pour water through a filter made of sand and charcoal",
+        "Impurities get trapped in the filter",
+        "Clean water collects in the container below"
+      ],
+      "animation": "filtration"
+    },
+    {
+      "id": 3,
+      "name": "Disinfection",
+      "description": "Killing bacteria and viruses with UV light or chlorine",
+      "steps": [
+        "Expose water to UV light or add chlorine",
+        "Bacteria and viruses are destroyed",
+        "Water becomes safe to drink"
+      ],
+      "animation": "disinfection"
+    },
+    {
+      "id": 4,
+      "name": "Distillation",
+      "description": "Boiling water and condensing the steam to purify it",
+      "steps": [
+        "Boil the water to create steam",
+        "Steam rises and leaves contaminants behind",
+        "Steam condenses back into pure water"
+      ],
+      "animation": "distillation"
+    }
+  ]
+}

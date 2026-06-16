@@ -63,8 +63,14 @@ function PollutionTypes() {
         </div>
 
         {selectedPollutant && (
-          <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
-            <div className="bg-white rounded-xl p-8 max-w-md w-full animate-scale-in">
+          <div 
+            className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50"
+            onClick={() => setSelectedPollutant(null)}
+          >
+            <div 
+              className="bg-white rounded-xl p-8 max-w-md w-full animate-scale-in"
+              onClick={(e) => e.stopPropagation()}
+            >
               <button
                 onClick={() => setSelectedPollutant(null)}
                 className="absolute top-4 right-4 text-gray-500 hover:text-gray-700"

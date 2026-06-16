@@ -33,7 +33,7 @@
     "typescript": "^5.2.2",
     "vite": "^5.1.0"
   },
-  "homepage": "https://mudrois.github.io/water-pollution/",
+  "homepage": "https://MUDROis.github.io/water-pollution/",
   "allowScripts": {
     "esbuild@0.21.5": true
   }

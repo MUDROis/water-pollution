@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { fadeIn, waterFlow, particleMove } from '../animations/variants'
+
 
 interface WaterContainerProps {
   waterLevel: number

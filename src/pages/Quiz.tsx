@@ -14,7 +14,7 @@ function Quiz() {
   const [showScore, setShowScore] = useState(false)
   const [score, setScore] = useState(0)
   const [total, setTotal] = useState(0)
-  const [showResults, setShowResults] = useState(false)
+ 
 
   useEffect(() => {
     setQuestions(quizData.questions)
@@ -25,7 +25,7 @@ function Quiz() {
     setScore(currentScore)
     setTotal(totalQuestions)
     setShowScore(true)
-    setShowResults(true)
+    
   }
 
   const restartQuiz = () => {
